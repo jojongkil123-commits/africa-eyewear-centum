@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jojongkil123-commits.github.io/africa-eyewear-centum/sitemap.xml
