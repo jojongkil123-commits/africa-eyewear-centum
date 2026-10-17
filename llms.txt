@@ -1,30 +1,4 @@
-# AFRICA EYEWEAR — Shinsegae Centum City (Busan, Korea)
+# AFRICA EYEWEAR — moved
 
-> Optician and sunglasses store on B2 (basement level 2) of Shinsegae Centum City department store, 35 Centum nam-daero, Haeundae-gu, Busan, Korea. Tel +82-51-745-2574. Tax refund for foreign visitors.
-
-## Key facts (confirmed 2026-10-16)
-- Hours: Mon–Thu 10:30–20:00; Fri–Sun and public holidays 10:30–20:30
-- Closed on Shinsegae Centum City closing days (2026: 2026-10-19, 2026-11-09)
-- Location: directly below Exit 10 of Centum City Station (Busan Metro Line 2), facing the B2 central plaza between the department store and the mall. Same complex as Spa Land.
-- Single-vision prescription glasses ready in about 30 minutes
-- Free eye test by licensed opticians, no appointment needed
-- Tax refund for foreign visitors: instant refund at the counter or tax-refund receipt; passport required
-- Payment: Visa, Mastercard, UnionPay, Alipay, WeChat Pay; prices in KRW (please ask in store)
-- Languages: English; other languages via translation app
-- Brands: Oakley, Ray-Ban, Miu Miu, Moscot, 999.9, Kamemannen, Masunaga, Eyevan 7285, Markus T, Lash, Laurence Paul, Public Beacon, plus house brands
-- Korean name: 아프리카안경 신세계백화점 센텀시티점
-
-## Pages
-- [English](https://jojongkil123-commits.github.io/africa-eyewear-centum/): AFRICA EYEWEAR Shinsegae Centum City B2, Busan | Optician & Sunglasses, Tax Refund
-- [한국어](https://jojongkil123-commits.github.io/africa-eyewear-centum/ko/): 아프리카안경 신세계백화점 센텀시티점 B2 | 부산 안경원 · 외국인 택스리펀 · 단초점 안경 30분
-- [简体中文](https://jojongkil123-commits.github.io/africa-eyewear-centum/zh-hans/): AFRICA EYEWEAR 釜山新世界百货 Centum City 店 B2｜眼镜店·太阳镜·可退税
-- [繁體中文](https://jojongkil123-commits.github.io/africa-eyewear-centum/zh-hant/): AFRICA EYEWEAR 釜山新世界百貨 Centum City 店 B2｜眼鏡行、太陽眼鏡、可退稅
-- [日本語](https://jojongkil123-commits.github.io/africa-eyewear-centum/ja/): AFRICA EYEWEAR 釜山・新世界センタムシティ B2｜メガネ・サングラス・免税
-- [Tiếng Việt](https://jojongkil123-commits.github.io/africa-eyewear-centum/vi/): AFRICA EYEWEAR Shinsegae Centum City B2, Busan | Cửa hàng kính mắt, cắt kính, hoàn thuế
-- [ภาษาไทย](https://jojongkil123-commits.github.io/africa-eyewear-centum/th/): AFRICA EYEWEAR ชินเซเก เซ็นทัมซิตี้ ชั้น B2 ปูซาน | ร้านแว่นตา ตัดแว่น คืนภาษีได้
-- [Bahasa Indonesia](https://jojongkil123-commits.github.io/africa-eyewear-centum/id/): AFRICA EYEWEAR Shinsegae Centum City B2, Busan | Optik & kacamata hitam, tax refund
-
-## Maps
-- Google Maps: https://maps.google.com/?cid=4550946113625449537
-- Naver Map: https://map.naver.com/p/entry/place/1745538802
-- Instagram: https://www.instagram.com/africa_ssg_centum/
+This site moved to https://africa-eyewear.github.io/
+See https://africa-eyewear.github.io/llms.txt
